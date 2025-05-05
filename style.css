@@ -26,7 +26,7 @@ main {
 }
 
 footer {
-    background-color: #cec8c0;
+    background-color: #cbd0da;
     font-family: "Funnel Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -53,9 +53,18 @@ footer {
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
-    padding: 20px;
+    padding: 40px;
     margin: 20px;
     width: 800px;
     background-color: rgb(229, 240, 250);
+}
+
+.main-picture {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
