@@ -45,7 +45,7 @@ footer {
     width: 100%;
     align-items: center;
     justify-content: center;
-    padding-right: 100px;
+    padding-right: 50px;
 }
 
 .text-wrapper {
@@ -57,7 +57,6 @@ footer {
     margin: 20px;
     width: 800px;
     background-color: rgb(229, 240, 250);
-    
 }
 
 .main-picture {
@@ -65,7 +64,9 @@ footer {
     width: 100%;
     align-items: center;
     justify-content: center;
-    padding-top: 20px;
+    padding-top: 100px;
     padding-bottom: 20px;
 }
+
+
 
