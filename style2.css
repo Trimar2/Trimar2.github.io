@@ -8,6 +8,7 @@ body {
     display: grid;
     grid-template-rows: 100px auto 50px;
     min-height: 100vh;
+
 }
 
 header {
@@ -67,6 +68,8 @@ footer {
     padding-top: 100px;
     padding-bottom: 20px;
 }
+
+
 
 
 
