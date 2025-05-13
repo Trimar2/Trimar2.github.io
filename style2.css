@@ -8,7 +8,6 @@ body {
     display: grid;
     grid-template-rows: 100px auto 50px;
     min-height: 100vh;
-
 }
 
 header {
@@ -24,6 +23,10 @@ main {
     justify-content: center;
     align-items: center;
     background-color: #C7EAFA;
+    background-image: url('pink-catpaw.png');
+    background-repeat: repeat;
+    background-size: 150px; /* Adjust size as needed */
+    background-attachment: fixed;
 }
 
 footer {
@@ -65,7 +68,7 @@ footer {
     width: 100%;
     align-items: center;
     justify-content: center;
-    padding-top: 100px;
+    padding-top: 30px;
     padding-bottom: 20px;
 }
 

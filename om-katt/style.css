@@ -23,6 +23,10 @@ main {
     justify-content: center;
     align-items: center;
     background-color: #C7EAFA;
+    background-image: url('blue-catpaw.png');
+    background-repeat: repeat;
+    background-size: 150px; /* Adjust size as needed */
+    background-attachment: fixed;
 }
 
 footer {
